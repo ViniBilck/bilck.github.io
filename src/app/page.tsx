@@ -31,7 +31,7 @@ export default function Component() {
                 Academic Excellence
               </h1>
               <p className="inline text-gray-500 md:text-xl lg:text-base xl:text-xl dark:text-gray-400">@vinibilck</p>
-              <img alt="Profile Photo" className="rounded-lg object-cover h-80 w-90 mx-auto" src="/placeholder.svg"/>
+              <img alt="Profile Photo" className="rounded-lg object-cover h-80 w-90 mx-auto" src="./placeholder.svg"/>
             </div>
             <div className="mx-auto w-full max-w-3xl space-y-4">
               <p className="text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
